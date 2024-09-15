@@ -1,6 +1,6 @@
 # Technical Writing Samples
 
-Welcome to my repository of technical writing samples. Do you see something useful? Feel free to fork. Need something custom? Reach out to me to [start a project](https://tiamcquaid.com/start-a-project).
+Welcome to my repository of technical writing samples. Do you see something useful? Feel free to fork it. Need something custom? Reach out to me to [start a project](https://tiamcquaid.com/start-a-project).
 
 
 ## About This Work
