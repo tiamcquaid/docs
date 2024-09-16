@@ -1,6 +1,7 @@
 # Technical Writing Samples
 
-This repo contains examples of documentation designed to improve internal development processes and reduce the.
+This repo contains examples of documentation designed to improve internal processes for development teams.
+
 
 ## About This Work
 
