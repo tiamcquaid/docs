@@ -1,5 +1,5 @@
 
-# Development Process Guideline: Launching a Website on WPEngine
+# Launching a Website on WPEngine
 
 ## Pre-launch
 - [ ] **Backup** (WPEngine vs Plugin)
